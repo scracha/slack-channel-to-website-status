@@ -1,4 +1,4 @@
-# Slack-to-Website Network Status Page
+# Slack channel t -Website Network Status Page
 
 Simple PHP status page that displays messages including images from a Slack channel. Post in Slack, it appears on your website.  React with ❌ or 🗑️ to remove it.
 
