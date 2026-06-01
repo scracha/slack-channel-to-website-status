@@ -9,6 +9,8 @@ Simple PHP status page that displays messages including images from a Slack chan
 3. The message (and any images) are saved locally
 4. `index.php` displays the messages as a public status page
 
+![Example output](example_output.jpg)
+
 ## Features
 
 - **Auto status detection** — banner colour changes based on keywords in the latest message
